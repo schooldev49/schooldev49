@@ -7,7 +7,6 @@ Programming Languages/Tools I use <hr>
 <a href='https://assemblyscript.org/'><img src='https://www.assemblyscript.org/images/icon.svg' style='width: 5%; height: 5%; border-radius: 20px;'></a><a href='https://fsharp.org'><img src='https://cdn.worldvectorlogo.com/logos/fsharp.svg' style='width: 5%; height: 5%; border-radius: 20px;'></a> 
 
 <br>I used blender in 4th grade for a vr project kinda dont remember about it anymore lol 
-<br> I can prob get a ras pi at gencyber they give out free ras pi so i can figure whats that about
 <br>PHP is usels
 <br>
 I sometimes like using nodejs and Service workers and Fetch api and Rewrite and MutationObserver and yea 
